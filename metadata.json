@@ -1,0 +1,6 @@
+{
+  "name": "Dikasa Construção e Acabamento - Cuiabá MT",
+  "description": "Materiais de construção, acabamentos de alto padrão e tudo para sua obra em Cuiabá. Cimento, pisos, porcelanatos, tintas, elétrica e hidráulica com entrega ágil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
